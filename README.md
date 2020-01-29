@@ -4,8 +4,7 @@ To-Do's für die Webseite
 
 - 2 neue junge Mitglieder
 
-- Vplan Impressumslink updaten
-- Vplan PHP Version updaten bis 2. März
+- Vplan PHP Version updaten bis 2. März; Wichtig!
 - Vplan Android App
 - Vplan Upload-Programm neu programmieren
 
