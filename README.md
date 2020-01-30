@@ -3,7 +3,7 @@ To-Do's für die Webseite
 
 - **Vplan PHP Version updaten bis 2. März; Wichtig!**
 - 2 neue junge Mitglieder
-- ~~Impressums Link ändern~~ erledigt
+- ~~Impressums Link ändern~~ - [x] 
 - Vplan Android App
 - Vplan Upload-Programm neu programmieren
 
