@@ -6,6 +6,8 @@ To-Do's für die Webseite
 - [x] ~~Impressumslink ändern~~
 - [ ] Vplan Android App
 - [ ] Vplan Upload-Programm neu programmieren
+- [ ] Vplan Datenbank neu machen und Daten übertragen
+
 
 - [ ] Template verbessern
 - [ ] Medienordner Struktur bewahren
