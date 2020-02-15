@@ -12,3 +12,4 @@ To-Do's für die Webseite
 - [ ] Template verbessern
 - [ ] Medienordner Struktur bewahren
 - [ ] Startseite News-Modul
+- [ ] Webseitenordner aufräumen
