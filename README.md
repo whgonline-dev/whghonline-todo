@@ -11,4 +11,4 @@ To-Do's für die Webseite
 - [ ] Medienordner Struktur bewahren
 - [ ] Startseite News-Modul
 - [ ] Webseitenordner aufräumen
-- [ ] Backup
+- [X] Backup
