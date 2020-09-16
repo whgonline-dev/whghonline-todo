@@ -5,10 +5,10 @@ To-Do's für die Webseite
 - [x] ~~2 neue junge Mitglieder~~
 - [x] ~~Impressumslink ändern~~
 - [ ] Vplan Android App
-- [x] Vplan Upload-Programm neu programmieren
-- [x] Vplan Datenbank restrukturieren und Daten übertragen
+- [x] ~~Vplan Upload-Programm neu programmieren~~
+- [x] ~~Vplan Datenbank restrukturieren und Daten übertragen~~
 - [ ] Template verbessern
 - [ ] Medienordner Struktur bewahren
 - [ ] Startseite News-Modul
-- [x] Webseitenordner aufräumen
+- [x] ~~Webseitenordner aufräumen~~
 - [X] ~~Backup~~
