@@ -8,10 +8,10 @@ To-Do's für die Webseite
 - [x] ~~Vplan Datenbank restrukturieren und Daten übertragen~~
 - [ ] Template verbessern
 - [ ] Medienordner Struktur bewahren
-- [ ] Startseite News-Modul
 - [x] ~~Webseitenordner aufräumen~~
 - [X] ~~Backup~~
 - [ ] neues CMS
+  - [ ] Webseite übersichtlicher gestalten
 - [ ] IServ Kalender auf whgonline.de
 - [ ] Umstellung der Vertrags auf SSL (Läuft)
 - [ ] Mitglieder werben, im Wahlfach-Informatik
