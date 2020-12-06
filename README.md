@@ -4,12 +4,14 @@ To-Do's für die Webseite
 
 - [ ] Neue Mitglieder
   - [ ] Mitglieder werben, im Wahlfach-Informatik
-- [ ] Template verbessern
-- [ ] Medienordner Struktur bewahren
 - [ ] neues CMS
   - [ ] Webseite übersichtlicher gestalten
-- [ ] IServ Kalender auf whgonline.de
-- [ ] Umstellung der Vertrags auf SSL (Läuft)
+  - [ ] IServ Kalender auf whgonline.de
+  - [ ] Template verbessern
+
+- [ ] Medienordner Struktur bewahren
+
+- [x] ~~Umstellung der Vertrags auf SSL~~
 - [x] ~~Impressumslink ändern~~
 - [x] ~~Vplan Upload-Programm neu programmieren~~
 - [x] ~~Vplan Datenbank restrukturieren und Daten übertragen~~
