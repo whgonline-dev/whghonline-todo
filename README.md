@@ -11,7 +11,7 @@ To-Do's für die Webseite
 
 - [ ] Medienordner Struktur bewahren
 
-- [x] ~~Umstellung der Vertrags auf SSL~~
+- [x] ~~Umstellung des Vertrags auf SSL~~
 - [x] ~~Impressumslink ändern~~
 - [x] ~~Vplan Upload-Programm neu programmieren~~
 - [x] ~~Vplan Datenbank restrukturieren und Daten übertragen~~
