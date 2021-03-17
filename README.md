@@ -6,11 +6,13 @@ To-Do's für die Webseite
 - [ ] Neue Mitglieder
   - [ ] Mitglieder werben, im Wahlfach-Informatik
 
+- [ ] Struktur der Website verbessern
+
 - [ ] Medienordner Struktur bewahren
 
 ## Weniger wichtig
 
-- [ ] neues CMS
+- [ ] Neues CMS
   - [ ] Webseite übersichtlicher gestalten
   - [ ] IServ Kalender auf whgonline.de
   - [ ] Template verbessern
