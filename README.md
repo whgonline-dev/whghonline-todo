@@ -1,13 +1,10 @@
 # whghonline-todo
 To-Do's für die Webseite
 
+## Wichtig
 
 - [ ] Neue Mitglieder
   - [ ] Mitglieder werben, im Wahlfach-Informatik
-- [ ] neues CMS
-  - [ ] Webseite übersichtlicher gestalten
-  - [ ] IServ Kalender auf whgonline.de
-  - [ ] Template verbessern
 
 - [ ] Medienordner Struktur bewahren
 
@@ -18,3 +15,10 @@ To-Do's für die Webseite
 - [X] ~~Vplan PHP Version updaten bis unbestimmt~~
 - [x] ~~Webseitenordner aufräumen~~
 - [X] ~~Backup~~
+
+## Nicht wichtig
+
+- [ ] neues CMS
+  - [ ] Webseite übersichtlicher gestalten
+  - [ ] IServ Kalender auf whgonline.de
+  - [ ] Template verbessern
