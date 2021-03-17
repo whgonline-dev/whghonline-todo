@@ -16,7 +16,7 @@ To-Do's für die Webseite
 - [x] ~~Webseitenordner aufräumen~~
 - [X] ~~Backup~~
 
-## Nicht wichtig
+## Weniger wichtig
 
 - [ ] neues CMS
   - [ ] Webseite übersichtlicher gestalten
