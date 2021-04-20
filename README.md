@@ -11,6 +11,10 @@ To-Do's für die Webseite
 
 - [ ] Medienordner Struktur bewahren
 
+- [ ] Aufräumen + Archivieren von alten Seiten
+
+- [ ] Herr Sasse's Unterseiten reparieren/aufräumen oder weg damit
+
 ## Weniger wichtig
 
 - [ ] Neues CMS
