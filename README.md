@@ -5,6 +5,7 @@ To-Do's für die Webseite
 
 - [ ] Neue Mitglieder
   - [ ] Mitglieder werben, im Wahlfach-Informatik
+  - [ ] Text zur Anwerbung neuer Mitglieder schreiben
 
 - [ ] Struktur der Website verbessern
 
