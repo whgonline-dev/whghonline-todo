@@ -18,6 +18,7 @@ To-Do's für die Webseite
 ## Weniger wichtig
 
 - [ ] Neues CMS
+  - [ ] WBCE?
   - [ ] Webseite übersichtlicher gestalten
   - [ ] IServ Kalender auf whgonline.de
   - [ ] Template verbessern
