@@ -15,13 +15,17 @@ To-Do's für die Webseite
 
 - [ ] Herr Sasse's Unterseiten reparieren/aufräumen oder weg damit
 
+- [ ] Backup
+
+- [ ] Pinnwand neu strukturieren
+
 ## Weniger wichtig
 
 - [ ] Neues CMS
-  - [ ] WBCE?
+  - [ ] WBCE (wbce.org)
   - [ ] Webseite übersichtlicher gestalten
-  - [ ] IServ Kalender auf whgonline.de
-  - [ ] Template verbessern
+  - [ ] IServ Kalender auf whgonline.de (scheint echt nervig zu sein das hin zu bekommen)
+  - [ ] Template verbessern (am besten einfach neue Template)
 
 ## Fertig
 
@@ -31,4 +35,3 @@ To-Do's für die Webseite
 - [x] ~~Vplan Datenbank restrukturieren und Daten übertragen~~
 - [X] ~~Vplan PHP Version updaten bis unbestimmt~~
 - [x] ~~Webseitenordner aufräumen~~
-- [X] ~~Backup~~
