@@ -22,7 +22,7 @@ To-Do's für die Webseite
 ## Weniger wichtig
 
 - [ ] Neues CMS
-  - [ ] WBCE (wbce.org)
+  - [ ] WBCE (https://wbce.org)
   - [ ] Webseite übersichtlicher gestalten
   - [ ] IServ Kalender auf whgonline.de (scheint echt nervig zu sein das hin zu bekommen)
   - [ ] Template verbessern (am besten einfach neue Template)
