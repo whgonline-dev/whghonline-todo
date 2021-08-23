@@ -3,10 +3,6 @@ To-Do's für die Webseite
 
 ## Wichtig
 
-- [ ] Neue Mitglieder
-  - [ ] Mitglieder werben, im Wahlfach-Informatik
-  - [ ] Text zur Anwerbung neuer Mitglieder schreiben
-
 - [ ] Struktur der Website verbessern
 
 - [ ] Medienordner Struktur bewahren
@@ -29,6 +25,9 @@ To-Do's für die Webseite
 
 ## Fertig
 
+- [x] ~~Neue Mitglieder~~
+  - [x] ~~Mitglieder werben, im Wahlfach-Informatik~~
+  - [x] ~~Text zur Anwerbung neuer Mitglieder schreiben~~
 - [x] ~~Umstellung des Vertrags auf SSL~~
 - [x] ~~Impressumslink ändern~~
 - [x] ~~Vplan Upload-Programm neu programmieren~~
