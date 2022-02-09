@@ -15,7 +15,7 @@ To-Do's für die Webseite
 
 - [ ] Pinnwand neu strukturieren
 
-- [ ] Alte AG Ordner löschen (rumfragen welche AGs noch existieren)
+- [ ] Alte AG Ordner in Archiv umschieben (rumfragen welche AGs noch existieren)
 
 ## Weniger wichtig
 
