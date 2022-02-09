@@ -11,7 +11,7 @@ To-Do's für die Webseite
 
 - [ ] Herr Sasse's Unterseiten reparieren/aufräumen oder weg damit
 
-- [ ] Backup
+- [x] Backup
 
 - [ ] Pinnwand neu strukturieren
 
