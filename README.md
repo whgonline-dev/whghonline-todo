@@ -15,6 +15,8 @@ To-Do's für die Webseite
 
 - [ ] Pinnwand neu strukturieren
 
+- [ ] Alte AG Ordner löschen (rumfragen welche AGs noch existieren)
+
 ## Weniger wichtig
 
 - [x] ~~Neues CMS~~
